@@ -16,10 +16,11 @@
 Laptops, Desktops and Tablet PCs
 
 ### Built With
-* ![Front-end][front-end-shield]
-* ![Back-end][back-end-shield]
-* ![Database][database-shield]
-* ![Tools][tools-shield]
+Front-end- ReactJS
+Back-end- NodeJS, ExpressJS, Socket.io
+Database- MongoDB
+Tools- Javascript FaceAPI
+
 
 <!-- AGILE METHODOLOGY -->
 ## Agile Methodology

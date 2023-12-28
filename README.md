@@ -16,10 +16,10 @@
 Laptops, Desktops and Tablet PCs
 
 ### Built With
-Front-end- ReactJS
-Back-end- NodeJS, ExpressJS, Socket.io
-Database- MongoDB
-Tools- Javascript FaceAPI
+1. Front-end- ReactJS
+2. Back-end- NodeJS, ExpressJS, Socket.io
+3. Database- MongoDB
+4. Tools- Javascript FaceAPI
 
 
 <!-- AGILE METHODOLOGY -->
@@ -33,11 +33,11 @@ Agile is a development methodology adopted today in the software industry. Agile
 
 SCRUM is a subset of Agile, a framework for developing software. SCRUM takes advantage of different techniques to achieve goals in Agile. SCRUM promotes an iterative model where the planning is performed on a very short term. The basic time working unit is the sprint. SCRUM teams always reason in sprints and their planning is limited to sprints.
 
-* Sprint 1 (May 4 - May 11): Sprint Planning, Research and Design - I decided to build a Face Recognition based Attendance System. I researched about various faceAPI available such as Microsoft Azure, Headtracker, OpenCV, etc. but I decided to stick with JavaScript FaceAPI which is implemented on top of tensorflow.js core API. After that, I searched for tutorials, designed a wireframe including the functionalities I want and designed the UI.
+1. Planning, Research and Design - I decided to build a Face Recognition based Attendance System. I researched about various faceAPI available such as Microsoft Azure, Headtracker, OpenCV, etc. but I decided to stick with JavaScript FaceAPI which is implemented on top of tensorflow.js core API. After that, I searched for tutorials, designed a wireframe including the functionalities I want and designed the UI.
 
-* Sprint 2 (May 12 - May 18): Software development and debugging - Started the development process by taking help from YouTube tutorials. Built a web application using React JS and Node JS and implemented socket.io for the first time. Encountered occasional bugs which I debugged timely. Made required changes in the UI and color scheme to make it more eye pleasing.
+2. Software development and debugging - Started the development process by taking help from YouTube tutorials. Built a web application using React JS and Node JS and implemented socket.io for the first time. Encountered occasional bugs which I debugged timely. Made required changes in the UI and color scheme to make it more eye pleasing.
 
-* Sprint 3 (May 19 - May 29): Implementing ChatBox Feature - debugging and adding additional features. I decided to implement ChatBox feature after successfully implementing the face recognition functionality. Added Logout functionality, viewing attendance sheets and sending email to the absentees. Finalised the UI of the project and successfully deployed it.
+3. Implementing ChatBox Feature - debugging and adding additional features. I decided to implement ChatBox feature after successfully implementing the face recognition functionality. Added Logout functionality, viewing attendance sheets and sending email to the absentees. Finalised the UI of the project and successfully deployed it.
 
 <!-- INSTALLATIONS -->
 

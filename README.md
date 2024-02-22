@@ -129,7 +129,7 @@ Your app is now running on http://localhost:3000
    - The student needs to enter correct code.
    
    - The code will be valid for only 2 minutes and the student has to mark attendance. If a student tries to mark attendance after 2 minutes the attendance will not be marked.
-   - 
+     
    - If a student enters correct code , a webcam will open will will detect and match student face and automatically mark attendance.
    
 ## View Daily and DateWise Attendance Sheet

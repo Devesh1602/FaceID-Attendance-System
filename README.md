@@ -90,11 +90,7 @@ Your app is now running on http://localhost:3000
 
    - Home Page of the website. The project is divided into two modules - Student and Faculty.
    
-   <img src="Images/home.png" alt="home page" width="800"/> 
-   
    - About Section. The project provides face scanning to mark attendance and is very User friendly.
-   
-   <img src="Images/about.png" alt="home page" width="800"/>
    
 ## Student and Faculty Registration
 
